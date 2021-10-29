@@ -1,2 +1,2 @@
-# Google-Apps-Script-Contracting
+# Google-Apps-Script-GAS-Contracting
 Contracting workflow developed using Google Apps Script incorporating Google Drive, Forms, Sheets, Docs, and Gmail 
