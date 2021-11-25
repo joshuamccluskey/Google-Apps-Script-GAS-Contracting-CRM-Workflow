@@ -1,2 +1,2 @@
-# Contracting-CRM-Workflow
-Contracting workflow developed using Google Apps Script incorporating Google Worksoace Apps Drive, Forms, Sheets, Docs, and Gmail 
+# contracting-crm-workflow
+Google Apps Script incorporating Google Worksoace Apps Drive, Forms, Sheets, Docs, and Gmail. Contracting workflow developed using. This workflow prevented backlogs due to heavy workloads on individuals. It allowed greater oversight on the workload and allowed to assign workloads evenly amongst staff. Automation allowed for email notifications and update status emails to follow standard templates that were maintained on Google Docs. Documents were automatically orgainzed and uploaded to Google Drive and then recalled and attached to notification emails. 
